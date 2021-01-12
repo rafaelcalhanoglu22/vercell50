@@ -1,0 +1,4 @@
+baseURL = "https://bestquotesdailys.vercel.app"
+languageCode = "en-us"
+title = "Quotes Say Goodbye"
+theme = "tale-hugo-master"
